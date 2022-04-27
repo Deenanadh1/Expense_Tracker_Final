@@ -84,12 +84,13 @@
    cursor: pointer;
    opacity: 0.9;
    align-items: center;
+   font-size: 20px;
   }
 
   .register {
     width: 25%;
-    background-color: rgb(133, 128, 128);
-   color: white;
+    background-color: white;
+   color: #25D366;
    padding: 14px 20px;
    margin: 8px 0;
    border:#02521f;
@@ -97,6 +98,7 @@
    cursor: pointer;
    opacity: 0.9;
    align-items: center;
+   font-size: 20px;
   }
 
  .confirm {
